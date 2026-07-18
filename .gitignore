@@ -9,6 +9,7 @@ __pycache__/
 # PyCharm settings
 .idea/
 
-# Large data files (keep sample only)
-Data/split/
+# Large raw CSV files (kept as compressed zip instead)
+Data/split/*.csv
+!Data/split/*.zip
 
