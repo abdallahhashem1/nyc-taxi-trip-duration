@@ -12,5 +12,3 @@ __pycache__/
 # Large data files (keep sample only)
 Data/split/
 
-# Trained model (optional - keep if small, exclude if large)
-model/*.pkl
