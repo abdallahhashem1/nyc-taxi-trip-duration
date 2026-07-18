@@ -17,6 +17,7 @@ Project_trip/
 │   └── ridge_model.pkl          # trained model, ready to use
 ├── notebooks/
 │   └── 01_EDA_and_Visualization.ipynb
+|   └── 02_Modeling_Ridge_for_test.ipynb
 ├── src/
 │   ├── __init__.py
 │   ├── train.py                 # cleans data, builds features, trains, saves model
