@@ -100,5 +100,4 @@ python -m src.predict path/to/data.csv
 - All cleaning/feature-engineering logic lives in `src/train.py`'s
   `prepare_data()` function and is reused by `predict.py`, so train,
   validation, and test data are always processed identically.
-- Per the assignment rules, the test set was evaluated exactly once and
-  the score above is reported as-is.
+
