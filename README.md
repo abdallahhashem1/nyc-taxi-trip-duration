@@ -13,6 +13,7 @@ Project_trip/
 │   └── split/
 │       ├── train_val_data.zip   # compressed train.csv + val.csv (~46MB)
 │       └── (unzip here → train.csv, val.csv)
+|       └── test.csv # For final test
 │   └── split_sample/
 │       ├── train.csv
 │       └── val.csv
